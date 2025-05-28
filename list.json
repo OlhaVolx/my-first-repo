@@ -1,0 +1,160 @@
+{
+    "lists": [
+        {
+            "id": "901511284268",
+            "name": "1st list",
+            "orderindex": 50,
+            "content": "",
+            "status": null,
+            "priority": null,
+            "assignee": null,
+            "task_count": 0,
+            "due_date": null,
+            "start_date": null,
+            "folder": {
+                "id": "90156765376",
+                "name": "GET ALL LISTS lesson 4",
+                "hidden": false,
+                "access": true
+            },
+            "space": {
+                "id": "90154432124",
+                "name": "LESSON 4 HW",
+                "access": true
+            },
+            "archived": false,
+            "override_statuses": false,
+            "permission_level": "create"
+        },
+        {
+            "id": "901511284274",
+            "name": "2nd list",
+            "orderindex": 51,
+            "content": "",
+            "status": null,
+            "priority": null,
+            "assignee": null,
+            "task_count": 0,
+            "due_date": null,
+            "start_date": null,
+            "folder": {
+                "id": "90156765376",
+                "name": "GET ALL LISTS lesson 4",
+                "hidden": false,
+                "access": true
+            },
+            "space": {
+                "id": "90154432124",
+                "name": "LESSON 4 HW",
+                "access": true
+            },
+            "archived": false,
+            "override_statuses": false,
+            "permission_level": "create"
+        },
+        {
+            "id": "901511293943",
+            "name": "11st list",
+            "orderindex": 52,
+            "content": "",
+            "status": null,
+            "priority": null,
+            "assignee": null,
+            "task_count": 0,
+            "due_date": null,
+            "start_date": null,
+            "folder": {
+                "id": "90156765376",
+                "name": "GET ALL LISTS lesson 4",
+                "hidden": false,
+                "access": true
+            },
+            "space": {
+                "id": "90154432124",
+                "name": "LESSON 4 HW",
+                "access": true
+            },
+            "archived": false,
+            "override_statuses": false,
+            "permission_level": "create"
+        },
+        {
+            "id": "901511293944",
+            "name": "12st list",
+            "orderindex": 53,
+            "content": "",
+            "status": null,
+            "priority": null,
+            "assignee": null,
+            "task_count": 0,
+            "due_date": null,
+            "start_date": null,
+            "folder": {
+                "id": "90156765376",
+                "name": "GET ALL LISTS lesson 4",
+                "hidden": false,
+                "access": true
+            },
+            "space": {
+                "id": "90154432124",
+                "name": "LESSON 4 HW",
+                "access": true
+            },
+            "archived": false,
+            "override_statuses": false,
+            "permission_level": "create"
+        },
+        {
+            "id": "901511293951",
+            "name": "13st list",
+            "orderindex": 54,
+            "content": "",
+            "status": null,
+            "priority": null,
+            "assignee": null,
+            "task_count": 0,
+            "due_date": null,
+            "start_date": null,
+            "folder": {
+                "id": "90156765376",
+                "name": "GET ALL LISTS lesson 4",
+                "hidden": false,
+                "access": true
+            },
+            "space": {
+                "id": "90154432124",
+                "name": "LESSON 4 HW",
+                "access": true
+            },
+            "archived": false,
+            "override_statuses": false,
+            "permission_level": "create"
+        },
+        {
+            "id": "901511293952",
+            "name": "15st list",
+            "orderindex": 55,
+            "content": "",
+            "status": null,
+            "priority": null,
+            "assignee": null,
+            "task_count": 0,
+            "due_date": null,
+            "start_date": null,
+            "folder": {
+                "id": "90156765376",
+                "name": "GET ALL LISTS lesson 4",
+                "hidden": false,
+                "access": true
+            },
+            "space": {
+                "id": "90154432124",
+                "name": "LESSON 4 HW",
+                "access": true
+            },
+            "archived": false,
+            "override_statuses": false,
+            "permission_level": "create"
+        }
+    ]
+}
